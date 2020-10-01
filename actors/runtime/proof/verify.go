@@ -1,7 +1,7 @@
 package proof
 
 import (
-	proof0 "github.com/filecoin-project/specs-actors/actors/runtime/proof"
+	proof0 "github.com/cryptonemo/specs-actors/actors/runtime/proof"
 )
 
 ///
